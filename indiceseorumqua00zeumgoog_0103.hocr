@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indiceseorumqua00zeumgoog_0103.png"; bbox 0 0 4950 6550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 234 2178 2176 3151">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 234 2178 2176 3151">
+     <span class='ocr_line' id='line_1_1' title="bbox 996 2178 1417 2332; baseline -0.012 1"><span class='ocrx_word' id='word_1_1' title='bbox 996 2178 1417 2332; x_wconf 82' lang='lat' dir='ltr'>INDICES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 239 2552 2176 2727; baseline 0.001 -23"><span class='ocrx_word' id='word_1_2' title='bbox 239 2552 855 2726; x_wconf 82' lang='lat' dir='ltr'><strong>AUCTORUM‚</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 886 2553 1634 2727; x_wconf 84' lang='lat' dir='ltr'><strong>PERSONARUM‚</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1665 2554 2176 2707; x_wconf 87' lang='lat' dir='ltr'>LOOORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 234 2926 2052 3151; baseline -0.001 -72"><span class='ocrx_word' id='word_1_5' title='bbox 234 3143 239 3151; x_wconf 14' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 365 2931 500 3080; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 2926 1203 3091; x_wconf 85' lang='lat' dir='ltr'>POPULORUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1247 2930 1381 3079; x_wconf 88' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1428 2927 2052 3102; x_wconf 75' lang='grc' dir='ltr'><strong>ΤΕΒΒΑΒΠΜ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1005 3301 1412 3455">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1005 3301 1412 3455">
+     <span class='ocr_line' id='line_1_4' title="bbox 1005 3301 1412 3455; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1005 3301 1412 3455; x_wconf 88' lang='lat' dir='ltr'>RERUM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2480 6548">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2480 6548">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2480 6548; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2480 6548; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
